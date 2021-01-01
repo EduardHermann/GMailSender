@@ -3,11 +3,11 @@
 ## Description
 
 - The program wants to receive the following data in order to send Emails from a Google account to another one:
-  - Subject of your Email
-  - Content of your Email
-  - Your Google Email address
-  - Your Google Email password
-  - The Email address of the person you want to send the Email to
+  - subject of your Email
+  - content of your Email
+  - your Google Email address
+  - your Google Email password
+  - the Email address of the person you want to send the Email to
 
 ## How to start the programm
 
