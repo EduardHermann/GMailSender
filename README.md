@@ -8,6 +8,7 @@
   - your Google Email address
   - your Google Email password
   - the Email address of the person you want to send the Email to
+  - a file you want to send within your Email
 
 ## How to start the programm
 
