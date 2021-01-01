@@ -2,7 +2,7 @@
 
 ## Description
 
-- The program wants to receive the following data in order to send Emails from a Google account to another one:
+- The program is able to receive the following data and create an Email which you are able to send to another one:
   - subject of your Email
   - content of your Email
   - your Google Email address
