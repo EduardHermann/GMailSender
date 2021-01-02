@@ -3,7 +3,7 @@
 ## Description
 
 - The program is able to send a GMail from a google account to another one by passing in your Email address, your password and the Email address of the person you want to send the   Email to
-- THe Email contains the following aspects:
+- The Email contains the following aspects:
   - subject of your Email
   - content of your Email
   - one file
