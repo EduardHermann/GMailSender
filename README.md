@@ -16,7 +16,8 @@
 
 ## How to use the program
 
-- You need to turn on on your Google account that you trust less secure apps in order to send Emails 
+- You need to turn on on your Google account that you trust less secure apps in order to send Emails
+- Follow these steps to turst less secure apps on your google account:
   - 1 Log into your Google account
   - 2 Go to security
   - 3 search for "Access through less secure apps" and turn it on
