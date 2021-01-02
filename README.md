@@ -2,7 +2,7 @@
 
 ## Description
 
-- You are able to send a GMail your a google account to another one by passing in your Email address, your password and the Email address of the person you want to send the   Email to
+- You are able to send an Email from your Google account to another one by passing in your Email address, your password and the Email address of the person you want to send the   Email to
 - The Email contains the following aspects:
   - subject of your Email
   - content of your Email
@@ -16,7 +16,7 @@
 
 ## How to use the program
 
-- You need to turn on on your Google account that you trust less secure apps in order to start my program
+- You need to turn on on your Google account that you trust less secure apps in order to send Emails 
   - 1 Log into your Google account
   - 2 Go to security
   - 3 search for "Access through less secure apps" and turn it on
