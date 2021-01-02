@@ -17,9 +17,9 @@
 ## How to use the program
 
 - You need to turn on on your Google account that you trust less secure apps in order to start my program
-  - 1) Log into your Google account
-  - 2) Go to security
-  - 3) search for "Access through less secure apps" and turn it on
+  - 1 Log into your Google account
+  - 2 Go to security
+  - 3 search for "Access through less secure apps" and turn it on
   
 ## What I have learned from this project
 
