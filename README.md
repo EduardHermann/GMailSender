@@ -2,13 +2,11 @@
 
 ## Description
 
-- The program is able to receive the following data and create an Email which you are able to send to another one:
+- The program is able to send a GMail by passing in your Email address, your password and the Email address of the person you want to send the Email to
+- THe Email contains the following aspects:
   - subject of your Email
   - content of your Email
-  - your Google Email address
-  - your Google Email password
-  - the Email address of the person you want to send the Email to
-  - a file you want to send within your Email
+  - one file
 
 ## How to start the programm
 
