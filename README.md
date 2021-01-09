@@ -24,5 +24,5 @@
   
 ## What I have learned from this project
 
-- How to send Emails in Java
 - "Advanced" Java swing components
+- Javax.mail 
